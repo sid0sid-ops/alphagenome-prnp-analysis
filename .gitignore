@@ -1,0 +1,19 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.venv/
+.venv/
+env/
+.DS_Store
+
+# Environment & Secrets (NEVER COMMIT)
+.env
+*.env
+.env.*
+
+# Temporary outputs
+tmp/
+*.log
+
+# Word reports and generators (local only)
+*.docx

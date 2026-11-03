@@ -1,0 +1,8 @@
+# Core Dependencies for AlphaGenome PRNP Analysis
+alphagenome>=0.1.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+numpy>=1.24.0
+anndata>=0.9.0
+pillow>=10.0.0
+pymupdf>=1.24.0

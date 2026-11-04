@@ -17,3 +17,11 @@ tmp/
 
 # Word reports and generators (local only)
 *.docx
+
+# Large external reference caches
+data/cache/
+*.feather.gz
+
+# Large uncompressed tables (compressed .csv.gz is tracked instead)
+data/prnp_score_variant_tidy.csv
+data/prnp_score_variant_summary.csv

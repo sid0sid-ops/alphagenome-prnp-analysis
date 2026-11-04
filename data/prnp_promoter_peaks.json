@@ -1,0 +1,28 @@
+{
+  "gene": "PRNP",
+  "chromosome": "chr20",
+  "strand": "+",
+  "ontology_curie": "UBERON:0000955",
+  "tissue": "Human Adult Brain",
+  "promoter_window": "chr20:4686000-4687500",
+  "exon2_coding_window": "chr20:4699200-4700000",
+  "cage_promoter_peak": {
+    "coordinate": 4686458,
+    "signal_value": 1568.0,
+    "assay": "CAGE (+ strand)"
+  },
+  "dnase_promoter_peak": {
+    "coordinate": 4686445,
+    "signal_value": 12.8125,
+    "assay": "DNase-seq Accessibility"
+  },
+  "rnaseq_exon1_promoter_peak": {
+    "signal_value": 1.8047,
+    "assay": "RNA-seq (+ strand)"
+  },
+  "rnaseq_exon2_coding_peak": {
+    "coordinate": 4699997,
+    "signal_value": 12.25,
+    "assay": "RNA-seq (+ strand)"
+  }
+}

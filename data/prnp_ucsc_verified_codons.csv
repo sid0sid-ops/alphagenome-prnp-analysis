@@ -1,0 +1,7 @@
+variant_id,dbsnp,codon,genomic_coord,chromosome,position,ref_base,alt_base,ref_codon,mut_codon,ref_aa,mut_aa,aa_substitution,phenotype,ucsc_validation
+P102L,rs61729737,102,chr20:4699525:C>T,chr20,4699525,C,T,CCG,CTG,P,L,p.P102L,Gerstmann-Sträussler-Scheinker (GSS),EXACT_MATCH
+G127V,rs80356730,127,chr20:4699600:G>T,chr20,4699600,G,T,GGC,GTC,G,V,p.G127V,Kuru Complete Resistance,EXACT_MATCH
+M129V,rs1799990,129,chr20:4699605:A>G,chr20,4699605,A,G,ATG,GTG,M,V,p.M129V,vCJD / sCJD Susceptibility Switch,EXACT_MATCH
+D178N,rs61733276,178,chr20:4699752:G>A,chr20,4699752,G,A,GAC,AAC,D,N,p.D178N,Fatal Familial Insomnia (FFI),EXACT_MATCH
+E200K,rs28933385,200,chr20:4699818:G>A,chr20,4699818,G,A,GAG,AAG,E,K,p.E200K,Familial Creutzfeldt-Jakob Disease (fCJD),EXACT_MATCH
+E219K,rs1800533,219,chr20:4699875:G>A,chr20,4699875,G,A,GAG,AAG,E,K,p.E219K,East Asian Protective Polymorphism,EXACT_MATCH
